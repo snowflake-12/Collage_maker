@@ -4,7 +4,7 @@ import numpy as np
 
 # read all the images
 # we are going to take 4 images only
-image1=cv2.imread("/home/anu/Pictures/anu/c1.jpeg")
+image1=cv2.imread("/home/anu/Pictures/anu/c1.jpg")
 image2=cv2.imread("/home/anu/Pictures/anu/c2.png")
 image3=cv2.imread("/home/anu/Pictures/anu/c3.png")
 image4=cv2.imread("/home/anu/Pictures/anu/c4.png")
